@@ -29,13 +29,6 @@ Dieses Repository enthält meine Python-Lernübungen und -Projekte. Jede Datei z
 
 - Python 3.6 oder höher
 
-### Ausführen
-
-```bash
-cd python
-python beginn.py
-```
-
 ### Beispiel-Ausgabe
 
 ```
