@@ -1,6 +1,4 @@
 # Variables
-name = "Max"
-
 
 def alter_abfrage():
     alter = int(input("Bitte geb dein Alter ein "))
